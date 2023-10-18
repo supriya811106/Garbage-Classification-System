@@ -23,12 +23,12 @@ A machine learning system that classifies different types of waste materials int
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/supriya811106/Garbage-Classification.git
+    git clone https://github.com/supriya811106/Garbage-Classification-System.git
     ```
 
 2. Navigate to the cloned repository:
     ```bash
-    cd Garbage-Classification
+    cd Garbage-Classification-System
     ```
 
 3. Install the required dependencies:
